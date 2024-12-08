@@ -3,7 +3,6 @@
 I'm currently a third-year student at the University of Washington, pursuing a B.S. in Informatics with a concentration in Data Science and Human-Computer Interaction! I’m passionate about leveraging the power of technology and data to empower and inform marginalized communities, promote equity, and drive positive change through data-driven metrics.
 
 🔗 Feel free to reach out and [connect](https://www.linkedin.com/in/khadija-dial/) with me!
-Email: kdial17@uw.edu
 
 ## Tech Stack
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
